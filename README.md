@@ -12,7 +12,7 @@ Super clean dark/neon UI with glass effect
 Works on phone, tablet, laptop — no sweat
 
 ## Screenshot time
-![image alt]()
+![image alt](https://github.com/prabhas-byte/codealpha_chatbot-for-FAQs/blob/ec89018e8a1483b6d5320cb9263d7b691bb4136b/Screenshot%202026-02-03%20130533.png)
 ![image alt]()
 ![image alt]()
 ## How to talk to it
